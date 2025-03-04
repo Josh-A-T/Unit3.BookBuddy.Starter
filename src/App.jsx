@@ -7,7 +7,7 @@ import Login from "./components/Login";
 import Register from "./components/Register";
 import Account from "./components/Account";
 import SingleBook from "./components/SingleBook";
-import Footer from "./components/footer";
+import Footer from "./components/Footer";
 
 
 const API_URL = "https://fsa-book-buddy-b6e748d1380d.herokuapp.com";
